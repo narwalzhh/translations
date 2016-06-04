@@ -6,7 +6,7 @@
 _emphasize_ __strong__ ___emphasize and strong___
 ```
 
-*emphasize* **strong** ***emphasize and strong***
+*emphasize* **strong** ***emphasize and strong***  
 _emphasize_ __strong__ ___emphasize and strong___
 
 ##Link and Email
