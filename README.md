@@ -1,2 +1,2 @@
-# translations
-翻译一些无聊的东西！！！
+#translations
+一些无聊的东西，翻译着玩儿！
